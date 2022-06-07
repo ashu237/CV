@@ -1,0 +1,28 @@
+.image {
+  border-radius: 50%;
+  border: 10px solid blue;
+  border-style: double dotted;
+}
+#table_border{
+  border: 1px solid;
+  border-collapse: collapse;
+}
+.bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+.block {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.block a:hover {
+  background-color: #111;
+}
